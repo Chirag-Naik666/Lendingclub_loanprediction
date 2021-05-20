@@ -1,9 +1,9 @@
 # Lendingclub Loan prediction
 
-This repository contains my Capstone Project. The project is a binary classification problem for the loan status feature on the lendingclub dataset.
+This repository contains my Capstone Project. The project is a binary classification problem for the loan status feature on the lending club dataset.
 
 
-### *Files in the repository*
+### *Files in the repository*-
 
 Report-1.docx - porject report containg all the details about the project
 
