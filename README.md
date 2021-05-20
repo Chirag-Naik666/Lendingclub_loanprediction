@@ -5,11 +5,11 @@ This repository contains my Capstone Project. The project is a binary classifica
 
 ### *Files in the repository*-
 
-Report-1.docx - porject report containg all the details about the project
+1- Report-1.docx - porject report containg all the details about the project
 
-EDA.ipynb - jupyter notebook for data cleaning and EDA of the dataset
+2- EDA.ipynb - jupyter notebook for data cleaning and EDA of the dataset
 
-modeling.ipynb -  jupyter notebook for fitting different models and getting the result
+3- modeling.ipynb -  jupyter notebook for fitting different models and getting the result
 
 ### Conclusion- 
 Tuned Random forest yeilds us the best results.
